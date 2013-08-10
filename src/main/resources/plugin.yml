@@ -1,0 +1,12 @@
+author: wlan222
+database: false
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: me.wlan222.plugins.aptitude.Aptitude
+name: Aptitude
+startup: startup
+version: '1.0'
+
+commands:
+   apt:
+      description: Aptitude
+      usage: /apt [bukkitdev slug]
